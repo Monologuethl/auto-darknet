@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NG</folder>
+	<filename>GD_96-GD_0-INDEX_85-CORE0-20210508_170513.bmp</filename>
+	<path>C:\Users\ThinkPad\Desktop\大枣\NG\GD_96-GD_0-INDEX_85-CORE0-20210508_170513.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>11</ymin>
+			<xmax>112</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

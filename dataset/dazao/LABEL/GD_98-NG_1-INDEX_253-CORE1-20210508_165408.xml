@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GD</folder>
+	<filename>GD_98-NG_1-INDEX_253-CORE1-20210508_165408.bmp</filename>
+	<path>C:\Users\Administrator\Desktop\大枣CH2\GD\GD_98-NG_1-INDEX_253-CORE1-20210508_165408.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gd</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>25</ymin>
+			<xmax>105</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>
